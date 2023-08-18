@@ -1,0 +1,4 @@
+repository "高达@grayleaff@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
